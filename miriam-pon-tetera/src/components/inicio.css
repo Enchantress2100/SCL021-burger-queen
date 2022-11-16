@@ -1,0 +1,42 @@
+body{
+    background-color: var(--mainBackground);
+    color: var(--basicColor);
+    font-family: var(--mainFontFamily);
+    text-shadow: var(--textShadow);   
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logoMiriam {
+    height: 40%;
+    width: 50%;
+}
+
+.portalEmployee{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+.imgEmployee{
+    display: flex;
+    justify-content: space-evenly;
+}
+.kettle{
+    width: 18em;
+    height: 13em;
+}
+.cakeIndex{
+    width: 16em;
+    height: 13em;
+}
+.titleEmployee{
+    display: flex;
+    justify-content: center;
+    gap: 35%;
+    font-size: larger;
+    position: relative;
+    bottom: 2em;
+}

@@ -1,0 +1,12 @@
+/*esto se retirará despues junto al archivo nav */
+ul {
+    list-style: none;
+    width: 100%;
+}
+
+ul li {
+    display: inline;
+    margin-right: 3px;
+}
+/*esto se retirará despues junto al archivo nav, solo sirve para visualizar las rutas */
+

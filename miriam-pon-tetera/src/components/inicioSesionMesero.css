@@ -1,0 +1,39 @@
+.portalServour{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+.containerLogIn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+}
+.labelUser{
+    font-size: x-large;
+}
+.inputUser1{
+    position: relative;
+    bottom: 2em;
+    height: 1.5em;
+    border: 0;
+}
+.inputUser2{
+    position: relative;
+    top: 2em;
+    height: 1.5em;
+    border: 0;
+}
+.loginButton{
+    display: flex;
+    justify-content: center;
+}
+.logInCup{
+    width: 9em;
+    height: 8em;
+}
+.googleButton{
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}

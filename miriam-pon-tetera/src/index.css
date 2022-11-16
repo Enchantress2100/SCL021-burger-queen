@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+:root {
+  --mainBackground: #FAA9A9;
+  --basicColor: #FEFEFE;
+  --commandeBackground: #B77373;
+  --addProduct: #ffd700;
+  --removeProduct: #cc0000;
+  --buttonsConfirm: #602B2B;
+  --buttonsPreparing: #B84C65;
+  --mainFontFamily: 'Kalam', cursive;
+  --textShadow: 2px 2px black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
